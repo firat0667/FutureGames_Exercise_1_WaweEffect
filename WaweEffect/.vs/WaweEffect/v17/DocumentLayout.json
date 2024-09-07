@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FutureGames_Exercise_1_WaweEffect\\WaweEffect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{079C7A19-5DC7-B483-92AF-D79535A0EF07}|Assembly-CSharp.csproj|e:\\futuregames_exercise_1_waweeffect\\waweeffect\\assets\\scripts\\waweeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079C7A19-5DC7-B483-92AF-D79535A0EF07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waweeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WaweEffect.cs",
+              "DocumentMoniker": "E:\\FutureGames_Exercise_1_WaweEffect\\WaweEffect\\Assets\\Scripts\\WaweEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaweEffect.cs",
+              "ToolTip": "E:\\FutureGames_Exercise_1_WaweEffect\\WaweEffect\\Assets\\Scripts\\WaweEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaweEffect.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAwJAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:59:17.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
